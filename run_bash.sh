@@ -1,0 +1,3 @@
+python main_t2l.py --patch_size 19 --centroid_path './Estimated_prototypes/10centers_192dim.pth' --training_sample 0.005 --source_HSI PaviaU --disjoint True --epoch 1 --runs 1 --smoothing 0.2 --batch_size 32;
+python main_t2l.py --patch_size 13 --centroid_path './Estimated_prototypes/16centers_192dim.pth' --training_sample 0.005 --source_HSI houston2013 --disjoint True --epoch 1 --runs 1 --smoothing 0.2 --batch_size 32;
+python main_t2l.py --patch_size 13 --centroid_path './Estimated_prototypes/19centers_192dim.pth' --training_sample 0.005 --source_HSI YC --disjoint True --epoch 1 --runs 1 --smoothing 0.2 --batch_size 32 --alpha 0.1

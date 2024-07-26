@@ -1,0 +1,32 @@
+
+
+lambda1:0.1, lambda2:0.1
+patch size:13
+average OA: 90.02 +- 0.50
+average AA: 91.77 +- 0.37
+average kappa: 89.1620 +- 0.5484
+accuracy for each class:
+accuracy for each class:
+accuracy for each class:
+	Undefined: nan+-nan
+	Healthy grass: 81.709+-0.45
+	Stressed grass: 84.530+-0.05
+	Synthetic grass: 100.000+-0.00
+	Trees: 92.746+-1.29
+	Soil: 99.943+-0.11
+	Water: 99.860+-0.28
+	Residential: 89.515+-2.33
+	Commercial: 76.353+-1.30
+	Road: 88.215+-2.49
+	Highway: 92.934+-6.03
+	Railway: 86.660+-5.53
+	Parking Lot 1: 95.351+-0.76
+	Parking Lot 2: 89.965+-1.51
+	Tennis Court: 100.000+-0.00
+	Running Track: 98.732+-0.00
+[[90.40747725]
+ [90.49766336]
+ [89.21866033]
+ [90.33368861]
+ [89.6285972 ]]
+2024-04-02 03:15:26

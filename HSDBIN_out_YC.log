@@ -1,0 +1,35 @@
+
+
+lambda1:0.1, lambda2:0.1
+patch size:13
+average OA: 97.03 +- 0.32
+average AA: 89.82 +- 1.29
+average kappa: 96.4666 +- 0.3781
+accuracy for each class:
+accuracy for each class:
+accuracy for each class:
+	Undefined: nan+-nan
+	Salt marsh: 99.863+-0.09
+	Acquaculture: 100.000+-0.00
+	Mud flat: 66.731+-4.45
+	Rice: 95.723+-1.62
+	Aquatic vegetation: 40.263+-15.56
+	Seep sea: 93.992+-0.20
+	Freshwater herbaceous marsh: 94.958+-4.69
+	Shallow sea: 99.570+-0.05
+	Reed: 96.774+-0.62
+	Pond: 99.118+-1.03
+	Building: 100.000+-0.00
+	Suaeda salsa: 100.000+-0.00
+	Flood plain: 98.691+-0.28
+	River: 96.731+-1.15
+	Soybean: 95.682+-2.48
+	Broomcorn: 83.662+-5.24
+	Maize: 95.000+-4.84
+	Locust: 60.000+-3.25
+[[97.03496503]
+ [96.82517483]
+ [96.6993007 ]
+ [97.62237762]
+ [96.96503497]]
+2024-04-02 12:53:24

@@ -1,0 +1,26 @@
+
+
+lambda1:0.1, lambda2:0.1
+patch size:19
+average OA: 96.44 +- 0.29
+average AA: 96.83 +- 0.61
+average kappa: 95.2359 +- 0.3837
+accuracy for each class:
+accuracy for each class:
+accuracy for each class:
+	Undefined: nan+-nan
+	Asphalt: 94.826+-1.64
+	Meadows: 95.909+-0.71
+	Gravel: 88.342+-4.65
+	Trees: 99.045+-0.21
+	Painted metal sheets: 99.748+-0.13
+	Bare Soil: 98.679+-2.41
+	Bitumen: 96.310+-2.87
+	Self-Blocking Bricks: 99.792+-0.05
+	Shadows: 98.843+-0.38
+[[96.61766912]
+ [96.18269087]
+ [96.34768262]
+ [96.91765412]
+ [96.14019299]]
+2024-04-17 10:54:37
